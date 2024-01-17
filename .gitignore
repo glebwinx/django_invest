@@ -1,4 +1,4 @@
-﻿.gitignorу
+﻿.gitignore
 .env
 .git
 /venv/
