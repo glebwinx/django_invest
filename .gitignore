@@ -1,0 +1,8 @@
+﻿.gitignorу
+.env
+.git
+/venv/
+/env/
+/test/
+.config
+config/
