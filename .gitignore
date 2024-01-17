@@ -1,8 +1,0 @@
-﻿.gitignore
-.env
-.git
-/venv/
-/env/
-/test/
-.config
-config/
